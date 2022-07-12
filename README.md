@@ -8,9 +8,10 @@
 ## Developers
 
 **Update Galaxy team:**
-- [**Muhammad Karbalaee Shabani**](https://gitlab.com/muhammadksht)
-- [**Reyhaneh Saffar**](https://gitlab.com/rsf122456)
-- [**Hasan Roknabady**](https://gitlab.com/HasanRoknabady)
+- [**Mohammad Rouintan **](https://github.com/MohammadRouintan)
+- [**Abolfazl Ramezanian**](https://github.com/abolfazl30not30)
+- [**Mahdi Ahmadi**](https://github.com/mr-robber)
+- [**Reza Mosavi**]((https://github.com/rezamosavi8740))
 \
   \
   _Computer Science students at Shahid Beheshti University_
@@ -114,7 +115,7 @@ Each phase very well organized and divided into separate tasks assigned to a dev
 
 - __**Database**__
 
-For this project Mysql database is used for storing data on server.
+For this project MongoDB database is used for storing data on server.
 \
 Here is the schema:
 <p align="center">
