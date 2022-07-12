@@ -48,7 +48,7 @@ Our application is meant to be a template of Divar desktop application.
       <img src = "ReadMeContent/4.png" height = "350">
     </p>
   
-    -full View of Ads-
+  - -full View of Ads-
     <p align="center">
       <img src = "ReadMeContent/11.png" height = "350">
     </p>
@@ -79,7 +79,7 @@ Our application is meant to be a template of Divar desktop application.
     <p align="center">
       <img src = "ReadMeContent/9.png" height = "350">
     </p>
-    -Saved Section-
+   - -Saved Section-
     <p align="center">
       <img src = "ReadMeContent/10.png" height = "350">
     </p>
