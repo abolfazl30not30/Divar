@@ -93,9 +93,6 @@ we tried to use the full power of Java in terms of object orientation. the proje
 because every part of the program is developed within a separate package obviously-named. Each package consists of 
 classes and fxml files of its own. we tried to obey the SOLID rules as much as we could in this project.
 
-<p align="center">
-  <img src = "readmeContext/oop.png" height = "350">
-</p>
 
 - __**Version Control tools**__
 
@@ -110,7 +107,7 @@ For this project MongoDB database is used for storing data on server.
 \
 Here is the schema:
 <p align="center">
-  <img src = "readmeContext/db.png" height = "350">
+  <img src = "ReadMeContent/Screenshot 2022-07-12 163613.png" height = "350">
 </p>
 
 - __**Socket Programming**__
