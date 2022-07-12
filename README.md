@@ -8,10 +8,10 @@
 ## Developers
 
 **Update Galaxy team:**
-- [**Mohammad Rouintan **](https://github.com/MohammadRouintan)
+- [**Mohammad Rouintan**](https://github.com/MohammadRouintan)
 - [**Abolfazl Ramezanian**](https://github.com/abolfazl30not30)
 - [**Mahdi Ahmadi**](https://github.com/mr-robber)
-- [**Reza Mosavi**]((https://github.com/rezamosavi8740))
+- [**Reza Mosavi**](https://github.com/rezamosavi8740)
 \
   \
   _Computer Science students at Shahid Beheshti University_
