@@ -2,7 +2,7 @@
 # Divar desktop app
 
 <p align="center">
-  <img src = "readmeContext/head.png" height = "350">
+  <img src = "Client/src/main/resources/com/example/image/redDivarLogo.png" height = "350">
 </p>
 
 ## Developers
@@ -35,50 +35,56 @@ Our application is meant to be a template of Divar desktop application.
       <img src = "ReadMeContent/1.png" height = "350">
     </p>
 
-  -  _main feed_
     <p align="center">
       <img src = "ReadMeContent/2.png" height = "350">
     </p>
 
-  -  _add post_
     <p align="center">
       <img src = "ReadMeContent/3.png" height = "350">
     </p>
 
-  - _user search_
+  - _All Ads Section_
     <p align="center">
-      <img src = "ReadMeContent/4.png" height = "100">
+      <img src = "ReadMeContent/4.png" height = "350">
     </p>
   
-  - _profile_
-    <p align="center">
-      <img src = "ReadMeContent/5.png" height = "350">
-    </p>
-  - _followers and followings list_
-    <p align="center">
-      <img src = "ReadMeContent/6.png" height = "350">
-    </p>
-  - _direct messaging_
-    <p align="center">
-      <img src = "ReadMeContent/7.png" height = "350">
-    </p>
-  - _post_
-    <p align="center">
-      <img src = "ReadMeContent/8.png" height = "350">
-    </p>
-    <p align="center">
-      <img src = "ReadMeContent/9.png" height = "350">
-    </p>
-    <p align="center">
-      <img src = "ReadMeContent/10.png" height = "350">
-    </p>
+    -full View of Ads-
     <p align="center">
       <img src = "ReadMeContent/11.png" height = "350">
     </p>
-  - _likes list_
+    
     <p align="center">
       <img src = "ReadMeContent/12.png" height = "350">
     </p>
+    
+  - _Categories Section_
+    <p align="center">
+      <img src = "ReadMeContent/5.png" height = "350">
+    </p>
+    
+  - _Add Ads Section_
+    <p align="center">
+      <img src = "ReadMeContent/6.png" height = "350">
+    </p>
+  
+    <p align="center">
+      <img src = "ReadMeContent/7.png" height = "350">
+    </p>
+    
+  - _Chat Section_
+    <p align="center">
+      <img src = "ReadMeContent/8.png" height = "350">
+    </p>
+   - _My Divar Section_
+    <p align="center">
+      <img src = "ReadMeContent/9.png" height = "350">
+    </p>
+    -Saved Section-
+    <p align="center">
+      <img src = "ReadMeContent/10.png" height = "350">
+    </p>
+
+
 
 - __**Object-orientation**__
 
@@ -97,21 +103,6 @@ Our team work was organized and merged and developed upon Git and we made separa
 and after implementing an specific part of the project the team members would push the changes and notifying the
 maintainer of the project to merge their changes after checking their provided code.
 
-- __**Team work**__
-
-The entire project was developed under four main phases
-- 1st phase: designing and building an API
-- 2nd phase: implementing follow,profile,login,sign up features
-- 3rd phase: implementing direct,post,comment,like features
-- 4th phase: adding additional features and testing and debugging the whole project
-
-Each phase very well organized and divided into separate tasks assigned to a developer and having a due date
-\
-[Task Boards](https://gitlab.com/update-galaxy-group/instagram-app/-/boards/2842705)
-\
-[Git graph](https://gitlab.com/update-galaxy-group/instagram-app/-/network/master)
-\
-[Contributions](https://gitlab.com/update-galaxy-group/instagram-app/-/graphs/master)
 
 - __**Database**__
 
