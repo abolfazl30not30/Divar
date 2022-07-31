@@ -73,7 +73,7 @@ Our application is meant to be a template of Divar desktop application.
     
   - _Chat Section_
     <p align="center">
-      <img src = "ReadMeContent/8.png" height = "350">
+      <img src = "ReadMeContent/chat.png" height = "350">
     </p>
    - _My Divar Section_
     <p align="center">
